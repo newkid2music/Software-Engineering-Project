@@ -1,0 +1,3 @@
+In order to run and compile the program, you must use a compiler such as NetBeans,
+JDK, or Eclipse. The source code is ProjectTest.java and the rest are text files 
+necessary to the project. THe project report is also included.
